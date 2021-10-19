@@ -1,0 +1,17 @@
+.MGL-details {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+
+mat-grid-tile {
+    background: lightblue;
+    
+  }
+
+img {
+    width: 400px;
+    height: 250px;
+}
